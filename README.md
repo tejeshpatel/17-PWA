@@ -10,7 +10,7 @@ Offline Functionality:
 
   * Enter deposits offline
 
-  * Enter expenses offline
+  * Enter expense offline
 
 When brought back online:
 
